@@ -1,6 +1,6 @@
 ### Hello
 
-🌱 I’m currently learning Flask
+🌱 I’m currently...
 
 <!--
 **dodpears/dodpears** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
